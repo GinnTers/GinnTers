@@ -23,6 +23,36 @@ My name is Duc Tien. I am interested in the following topics: Machine Learning, 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-blue?style=plastic) ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=plastic) ![Colab](https://img.shields.io/badge/Colab-lightgray?style=plastic)
 
 ## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=GinnTers&theme=merko&hide_border=false&include_all_commits=false&count_private=false&rank_icon=github&hide=prs,issues,contribs&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GinnTers&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GinnTers&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+<a href="https://github.com/GinnTers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GinnTers&theme=merko&hide_border=false&include_all_commits=false&count_private=false&rank_icon=github&hide=prs&show_icons=true&line_height=24"/>
+</a>
+
+<a href="https://github.com/GinnTers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GinnTers&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact&line_height=27"/>
+</a>
+
+<a href="https://github.com/GinnTers">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GinnTers&theme=merko&hide_border=false" alt="DucTien's GitHub Stats" />
+</a>
+
+<br>
+<a href="https://github.com/GinnTers/Aspect-sentiment-review-classifier">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=GinnTers&repo=Aspect-sentiment-review-classifier&theme=radical" />
+</a>    
+<a href="https://github.com/GinnTers/Smart-enrollment-AI-chatbot-visualization">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=GinnTers&repo=Smart-enrollment-AI-chatbot-visualization&theme=merko"/>
+</a>
+
+<a href="https://github.com/GinnTers/Realtime-object-detection-warning">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=GinnTers&repo=Realtime-object-detection-warning&theme=gruvbox" />
+</a>    
+<a href="https://github.com/GinnTers/DataGotTalent2024-Movies-Analysis">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=GinnTers&repo=DataGotTalent2024-Movies-Analysis&theme=cobalt"/>
+</a>
+</p>
