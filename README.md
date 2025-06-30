@@ -1,5 +1,5 @@
 # Hi there 👋👋👋
-My name is Duc Tien. I am interested in the following topics: Machine Learning, Deep Learning for Computer Vision, LLM, Artificial Intelligence, Data Analytics.<br>
+My name is Duc Tien. I am interested in the following topics: Machine Learning, Deep Learning for Computer Vision, LLM, Artificial Intelligence and Data Analytics.<br>
 
 # Contact me:
 
