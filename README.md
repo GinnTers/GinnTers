@@ -34,7 +34,7 @@ My name is Duc Tien. I am interested in the following topics: Machine Learning, 
 </a>
 
 <a href="https://github.com/GinnTers">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GinnTers&theme=merko&hide_border=false" alt="DucTien's GitHub Stats" />
+  <img align="center" src="" alt="DucTien's GitHub Stats" />
 </a>
 
 <br>
