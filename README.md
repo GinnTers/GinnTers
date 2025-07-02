@@ -1,7 +1,7 @@
 # Hi there 👋👋👋
 My name is Duc Tien. I am interested in the following topics: Machine Learning, Deep Learning for Computer Vision, LLM, Artificial Intelligence and Data Analytics.<br>
 
-# Contact me:
+# Contact me:d
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/LeVanDucTien77/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/đức-tiến-2301a1283/) [![GitHub](https://img.shields.io/badge/Git-hub-white)](https://github.com/GinnTers)
