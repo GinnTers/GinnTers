@@ -33,10 +33,6 @@ My name is Duc Tien. I am interested in the following topics: Machine Learning, 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GinnTers&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact&line_height=27"/>
 </a>
 
-<a href="https://github.com/GinnTers">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GinnTers&theme=merko&hide_border=false" alt="DucTien's GitHub Stats" />
-</a>
-
 <br>
 <a href="https://github.com/GinnTers/Aspect-sentiment-review-classifier">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
